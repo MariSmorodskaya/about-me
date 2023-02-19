@@ -8,4 +8,4 @@
 
 Со мной живет кот по имени Феникс, порода канадский сфинкс
 
-![Канадский сфинкс картинка] (https://multipet.ru/images/image2breed/b3/kanad-sfinx1.jpg)
+![Канадский сфинкс картинка](https://multipet.ru/images/image2breed/b3/kanad-sfinx1.jpg)
